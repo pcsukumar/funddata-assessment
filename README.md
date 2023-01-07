@@ -18,4 +18,5 @@ The folder [Practicals](https://github.com/pcsukumar/funddata-assessment/tree/ma
 05-cleansing-excercise_2.ipynb
 
 **Normal Distribution**
+
 The notebook [Normal_distribution.ipynb](https://github.com/pcsukumar/funddata-assessment/blob/main/Normal_distribution.ipynb "Normal_distribution.ipynb") in the main folder contains the code for Normal Distribution assignment. 
